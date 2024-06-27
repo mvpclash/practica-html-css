@@ -80,3 +80,10 @@ line-height: 1.6;
     color: white;
     font-weight: bold;
  }
+
+ .footer {
+    background-color: #cf2e2e;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+ }
