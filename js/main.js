@@ -1,6 +1,5 @@
 (()=>{
-    var variable1 = '';
-    let variable2 = 10;
-    const variable3 = false;
+   const denunciasBtn = document.getElementsByTagName('button')
 }
+
 )();
